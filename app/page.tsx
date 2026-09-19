@@ -4,7 +4,7 @@ export default function Home() {
       <div className="max-w-4xl mx-auto">
         <div className="bg-white rounded-xl shadow-sm border border-gray-200 p-8 mb-8">
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
-            GitOps Thesis — BookStore
+            GitOps Thesis — BookStore Demo
           </h1>
           <p className="text-gray-500 text-sm">
             Deployed via GitOps pipeline with Argo CD + k3s
