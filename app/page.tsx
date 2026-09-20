@@ -7,7 +7,7 @@ export default function Home() {
             GitOps Thesis — BookStore Demo
           </h1>
           <p className="text-gray-500 text-sm">
-            Deployed via GitOps pipeline with Argo CD + k3s /test
+            Deployed via GitOps pipeline with Argo CD + k3s / student
           </p>
         </div>
 
